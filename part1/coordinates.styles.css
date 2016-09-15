@@ -1,0 +1,28 @@
+div{
+    padding-left: 50px;
+}
+label{
+    margin-left: 75px;
+    margin-bottom: 20px;
+}
+input{
+    padding: 6px;
+    margin-bottom: 20px;
+}
+ul{
+    list-style: none;
+}
+li{
+    background-color: lightgrey;
+    text-align: center;
+    margin:10px;
+    width:300px;
+    padding: 8px;
+}
+button{
+    background: #0099ff;
+    padding: 8px 15px 8px 15px;
+    border: none;
+    color: white;
+    margin-left: 150px;
+}
